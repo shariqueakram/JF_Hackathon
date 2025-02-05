@@ -2,15 +2,7 @@
 
 ## Overview
 
-This game was created for the Jellyfish Hackathon 2024 by Sharique, BK, Samad and Savannah
-We took inspiration for the game from [Flappy Bird](https://flappybird.io/) 
-
-Use-case was to keep customers in-app but if they run into barbs and more importantly, buy the Engineering Team some time 😅
-
-Phaser was the framework
-Photoshop and Canva for Sprite creation
-Music 
-
+Jellyfish Hackathon Game is an exciting game developed for a hackathon challenge, blending creativity and problem-solving into an engaging experience. The game is built using Python and the Pygame library, offering smooth gameplay and unique mechanics.
 
 ## Features
 
@@ -38,38 +30,17 @@ Music
    ```sh
    python main.py
    ```
-## Web Brower version
-
-Alternatively, it can be directly played [here](https://sharique.xyz/jellyfish_hackathon-main/jellyfish_game.html)
-
-## Iterations of game
-![block](https://github.com/user-attachments/assets/6fb7f4f2-fd51-4859-a7c0-cf4e2c09e6dd)
-
-Original design while working on the game physics
-
-![sprite](https://github.com/user-attachments/assets/0a475c33-bdcc-472a-b2ef-30a8fdb360a8)
-
-Creation of the Sprite via Photoshop and Canva
 
 ## Controls
 
-- **Spacebar:** Swims up
+- **Arrow Keys:** Move the player character.
+- **Spacebar:** Perform actions (jump, shoot, interact, etc.).
+- **Escape:** Exit the game.
 
 ## Dependencies
 
 - Python 3.x
 - Pygame
-
-## Roadmap
-
-<img width="273" alt="Screenshot 2024-10-17 at 1 07 37 PM (1)" src="https://github.com/user-attachments/assets/c9777fd0-aba2-48c4-bc0e-9cb7c135d011" />
-
-Additional character skin: "barb"-ie
-
-![Screen Recording 2024-10-17 at 10 08 03 AM (1)](https://github.com/user-attachments/assets/01b4a921-ed70-42bd-826d-092681ed4d0f)
-
-Customized block colors
-
 
 ## Contributing
 
@@ -84,3 +55,4 @@ This project is licensed under the MIT License.
 For any questions or suggestions, feel free to reach out:
 
 - GitHub: [@shariqueakram](https://github.com/shariqueakram)
+
