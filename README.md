@@ -14,11 +14,7 @@ Sound sampled from Super Mario 64 'jump'
 
 ## Features
 
-- **Unique Gameplay Mechanics:** A fun and challenging experience tailored for the hackathon theme.
-- **Interactive Elements:** Players can interact with various objects and obstacles.
-- **Scoring System:** Keep track of scores and challenge yourself to improve.
-- **Dynamic Environment:** Changing levels and increasing difficulty.
-- **Intuitive Controls:** Easy-to-learn yet hard-to-master mechanics.
+- **Gameplay Mechanics:** Easy-to-learn yet hard-to-master mechanics.
 
 ## Installation
 
