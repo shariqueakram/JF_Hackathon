@@ -3,7 +3,7 @@
 ## Overview
 
 Created for the Jellyfish Hackathon 2024 by Sharique, BK, Samad and Savannah
-We took inspiration for the game from [Flappy Bird](https://flappybird.io/) 
+We took inspiration for the game from [Flappy Bird](https://flappybird.io/) and Google Chrome's Dinosaur game
 
 Use-case was to keep customers in-app but if they run into barbs and more importantly, buy the Engineering Team some time 😅
 
