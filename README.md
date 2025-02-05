@@ -26,14 +26,33 @@ Sound sampled from Super Mario 64 'jump'
    ```sh
    cd Jellyfish-Hackathon-game
    ```
-3. Install dependencies:
+## Option 1: Python
+
+Run this command in the project directory:
    ```sh
-   pip install -r requirements.txt
+   python -m http.server 8000
    ```
-4. Run the game:
-   ```sh
-   python main.py
+
+Then, open your browser and go to:
    ```
+   http://localhost:8000
+   ```
+## Option 2: Node.js
+
+Install http-server globally (if you don't already have it):
+   ```
+   npm install -g http-server
+   ```
+Run the server in the project directory:
+   ```
+   http-server
+   ```
+Open your browser and go to:
+   ```
+   http://localhost:8080
+   ```
+
+
 ## Web Brower version
 
 Alternatively, it can be directly played [here](https://sharique.xyz/jellyfish_hackathon-main/jellyfish_game.html)
