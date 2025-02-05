@@ -14,7 +14,7 @@ Sound sampled from Super Mario 64 'jump'
 
 ## Features
 
-- **Gameplay Mechanics:** Easy-to-learn yet hard-to-master mechanics; go through the gaps in the pipe - that's it!
+- **Gameplay Mechanics:** Go through the gaps in the pipe - that's it!
 
 ## Installation
 
