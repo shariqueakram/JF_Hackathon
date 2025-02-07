@@ -8,7 +8,9 @@ We took inspiration for the game from [Flappy Bird](https://flappybird.io/) and 
 Use-case was to keep customers in-app but if they run into barbs and more importantly, buy the Engineering Team some time 😅
 
 Phaser was the framework
+
 Photoshop and Canva for Sprite creation
+
 Sound sampled from Super Mario 64 'jump'
 
 
