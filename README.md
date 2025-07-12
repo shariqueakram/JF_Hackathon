@@ -28,7 +28,7 @@ Sound sampled from Super Mario 64 'jump'
    ```sh
    cd Jellyfish-Hackathon-game
    ```
-## Option 1: Python
+## Option 1: Mini web server via Python
 
 Run this command in the project directory:
    ```sh
@@ -39,7 +39,7 @@ Then, open your browser and go to:
    ```
    http://localhost:8000
    ```
-## Option 2: Node.js
+## Option 2: Mini web server via Node.js
 
 Install http-server globally (if you don't already have it):
    ```
