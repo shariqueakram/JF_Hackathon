@@ -72,11 +72,6 @@ Creation of the Sprite via Photoshop and Canva
 
 - **Spacebar:** Swims up
 
-## Dependencies
-
-- Python 3.x
-- Pygame
-
 ## Roadmap
 
 <img width="273" alt="Screenshot 2024-10-17 at 1 07 37 PM (1)" src="https://github.com/user-attachments/assets/c9777fd0-aba2-48c4-bc0e-9cb7c135d011" />
